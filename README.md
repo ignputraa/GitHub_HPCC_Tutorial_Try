@@ -2,9 +2,9 @@
 
 ### Ignatius Putra Andika
 
-### 4/3/2024
+### 4/3/2024 
 
-### leuenbe9@msu.edu
+### andikaig@msu.edu
 
 This repository goes along with the lecture and demonstration.
 
