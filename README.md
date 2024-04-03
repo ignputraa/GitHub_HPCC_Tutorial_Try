@@ -6,6 +6,8 @@
 
 ### andikaig@msu.edu
 
+secondg trial
+
 This repository goes along with the lecture and demonstration.
 
 ---------------------------------
