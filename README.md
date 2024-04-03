@@ -1,6 +1,6 @@
 # Tutorial: Using the HPCC and GitHub through RStudio
 
-### Wendy Leuenberger
+### Ignatius Putra Andika
 
 ### 3/27/2024
 
